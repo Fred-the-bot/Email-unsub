@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "Email unsubber",
+  "description": "This app will make it easier to unsub from emails",
+  "version": "1.0",
+
+
+"content_scripts": [
+    {
+        "matches": [
+            "*://*/*"
+        ],
+        "js": [
+            "content.js"
+        ],
+        "run_at": "document_end"
+    }
+]
+
+
+
+}

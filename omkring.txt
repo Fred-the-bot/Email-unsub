@@ -1,0 +1,3 @@
+Meningen med denne extension er at kunne finde unsubscribe links i emails og gøre det nemmere for en at unsubbe.
+
+Startet 08-02-2018
